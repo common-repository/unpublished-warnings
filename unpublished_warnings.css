@@ -1,0 +1,13 @@
+div#unpublished-warnings {
+	border: 1px;
+	border-color: red;
+	border-style: dotted;
+	font-weight: bold;
+	margin-bottom: 1em;
+}
+
+div#unpublished-warnings p {
+	margin-bottom: 0;
+	padding-top: .25em;
+	padding-left: .25em;
+}
